@@ -92,6 +92,3 @@ Hello, Node.js!
 Congratulations! You have successfully run your first Node.js program.
 
 In the next lesson, we will explore working with modules and npm, which are essential for building Node.js applications.
-```
-
-Please note that this is just a template, and you should customize it with your own explanations, code examples, and best practices to create a comprehensive introduction to Node.js.

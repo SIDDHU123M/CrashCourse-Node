@@ -42,7 +42,3 @@ In this section, we will explore how to work with databases in Node.js. We will 
 ## Conclusion
 
 In this section, we have explored the basics of working with databases in Node.js. We have covered connecting to MongoDB and PostgreSQL, performing CRUD operations, and implementing best practices for database operations. By understanding these concepts, you will be able to build robust and scalable applications with Node.js and databases.
-
-```
-
-Please note that this is just a template, and you should provide detailed explanations, code examples, and best practices specific to working with databases in Node.js in the actual content of the `06_working_with_databases.md` file.

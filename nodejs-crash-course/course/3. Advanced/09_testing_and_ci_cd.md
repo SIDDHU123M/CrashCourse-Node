@@ -168,7 +168,3 @@ docker run -p 3000:3000 my-app
 ## Conclusion
 
 Testing and CI/CD are crucial aspects of Node.js development. They help ensure the quality and reliability of your code and streamline the process of building, testing, and deploying your application. By following best practices and using the right tools, you can improve the efficiency and maintainability of your Node.js projects.
-
-```
-
-Please note that the code examples provided in the content are placeholders and should be replaced with actual code examples that demonstrate the concepts discussed in the section.

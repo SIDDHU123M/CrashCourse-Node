@@ -100,6 +100,3 @@ By following these best practices, you can ensure that your WebSocket-based appl
 In this section, we explored real-time communication using WebSockets in Node.js. We learned how to set up a WebSocket server, build a real-time chat application, and handle real-time events. We also discussed best practices for WebSocket communication.
 
 Next, let's move on to the next section and learn about testing and continuous integration/continuous deployment (CI/CD) for Node.js applications.
-```
-
-Please note that this is just a template, and you should fill in the content with detailed explanations, code examples, and best practices as required for your Node.js crash course project.
