@@ -61,4 +61,3 @@ To get started with Node.js, follow these steps:
    This will install all the dependencies specified in the `package.json` file.
 
 That's it! You're now ready to dive into the Node.js Crash Course. Start with the first chapter and enjoy learning Node.js!
-```
