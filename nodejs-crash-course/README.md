@@ -1,19 +1,19 @@
 # Node.js Crash Course
 
-Welcome to the Node.js Crash Course! This comprehensive course covers all major topics from beginner to advanced level, providing detailed explanations, code examples, and best practices for Node.js development.
+Welcome to the Node.js Crash Course! This comprehensive course covers all major topics from Beginner to Advanced level, providing detailed explanations, code examples, and best practices for Node.js development.
 
 ## Table of Contents
 
-- [Introduction to Node.js](course/beginner/01_introduction_to_nodejs.md)
-- [Working with Modules and npm](course/beginner/02_working_with_modules_and_npm.md)
-- [Asynchronous Programming](course/beginner/03_asynchronous_programming.md)
-- [Creating HTTP Servers and REST APIs](course/beginner/04_creating_http_servers_and_rest_apis.md)
-- [Working with the Filesystem](course/intermediate/05_working_with_the_filesystem.md)
-- [Working with Databases](course/intermediate/06_working_with_databases.md)
-- [Error Handling and Debugging](course/intermediate/07_error_handling_and_debugging.md)
-- [Real-Time Communication with WebSockets](course/advanced/08_real_time_communication_with_websockets.md)
-- [Testing and CI/CD](course/advanced/09_testing_and_ci_cd.md)
-- [Optimizing Node.js Performance](course/advanced/10_optimizing_nodejs_performance.md)
+- [Introduction to Node.js](course/1. Beginner/01_introduction_to_nodejs.md)
+- [Working with Modules and npm](course/1. Beginner/02_working_with_modules_and_npm.md)
+- [Asynchronous Programming](course/1. Beginner/03_asynchronous_programming.md)
+- [Creating HTTP Servers and REST APIs](course/1. Beginner/04_creating_http_servers_and_rest_apis.md)
+- [Working with the Filesystem](course/2. Intermediate/05_working_with_the_filesystem.md)
+- [Working with Databases](course/2. Intermediate/06_working_with_databases.md)
+- [Error Handling and Debugging](course/2. Intermediate/07_error_handling_and_debugging.md)
+- [Real-Time Communication with WebSockets](course/3. Advanced/08_real_time_communication_with_websockets.md)
+- [Testing and CI/CD](course/3. Advanced/09_testing_and_ci_cd.md)
+- [Optimizing Node.js Performance](course/3. Advanced/10_optimizing_nodejs_performance.md)
 - [Latest Features in ECMAScript and Node.js](course/latest_features/11_latest_features_in_ecmascript_and_nodejs.md)
 - [Securing Node.js Applications](course/latest_features/12_securing_nodejs_applications.md)
 
