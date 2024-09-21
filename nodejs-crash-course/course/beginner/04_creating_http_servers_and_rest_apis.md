@@ -33,10 +33,3 @@ In this section, we will focus on building RESTful APIs using Express.js. We wil
 ## REST API Design Principles and Best Practices
 
 In this section, we will discuss the design principles and best practices for building RESTful APIs. We will cover topics such as resource naming, versioning, pagination, error handling, and authentication.
-
----
-
-Feel free to add detailed explanations, code examples, and best practices to each section of the file based on your requirements.
-```
-
-Please note that this is just a template, and you should customize it with the specific content you want to include in the `04_creating_http_servers_and_rest_apis.md` file.
